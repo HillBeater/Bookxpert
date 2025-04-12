@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.textfield.TextInputEditText android:id="@+id/etName" android:hint="Name" style="@style/EditTextStyle"/>
+        <com.google.android.material.textfield.TextInputEditText android:id="@+id/etColor" android:hint="Color" style="@style/EditTextStyle"/>
+        <com.google.android.material.textfield.TextInputEditText android:id="@+id/etCapacity" android:hint="Capacity" style="@style/EditTextStyle"/>
+        <com.google.android.material.textfield.TextInputEditText android:id="@+id/etPrice" android:hint="Price" style="@style/EditTextStyle"/>
+        <com.google.android.material.textfield.TextInputEditText android:id="@+id/etGeneration" android:hint="Generation" style="@style/EditTextStyle"/>
+        <com.google.android.material.textfield.TextInputEditText android:id="@+id/etYear" android:hint="Year" style="@style/EditTextStyle"/>
+        <com.google.android.material.textfield.TextInputEditText android:id="@+id/etCpuModel" android:hint="CPU Model" style="@style/EditTextStyle"/>
+        <com.google.android.material.textfield.TextInputEditText android:id="@+id/etHardDiskSize" android:hint="Hard Disk Size" style="@style/EditTextStyle"/>
+        <com.google.android.material.textfield.TextInputEditText android:id="@+id/etStrapColour" android:hint="Strap Colour" style="@style/EditTextStyle"/>
+        <com.google.android.material.textfield.TextInputEditText android:id="@+id/etCaseSize" android:hint="Case Size" style="@style/EditTextStyle"/>
+        <com.google.android.material.textfield.TextInputEditText android:id="@+id/etScreenSize" android:hint="Screen Size" style="@style/EditTextStyle"/>
+        <com.google.android.material.textfield.TextInputEditText android:id="@+id/etDescription" android:hint="Description" style="@style/EditTextStyle"/>
+    </LinearLayout>
+</ScrollView>

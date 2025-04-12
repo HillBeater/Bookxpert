@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bookxpert</string>
+    <string name="sign_in_with_your_google_account">Sign in with your Google account</string>
+    <string name="sign_in">Sign in</string>
+    <string name="welcome_user">Welcome, %1$s!</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="image">image</string>
+    <string name="default_web_client_id">973434597990-4absefqv8m2d6pjj8oheus5kghnqs1b9.apps.googleusercontent.com</string>
+    <string name="logout">Logout</string>
+    <string name="view_report_pdf">View Report (PDF)</string>
+    <string name="settings">Settings</string>
+    <string name="view_api_data">View API Data</string>
+    <string name="capture_select_image">Capture / Select Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="push_notifications">Push Notifications</string>
+    <string name="selected_image">Selected Image</string>
+    <string name="select_from_gallery">Select from Gallery</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="loading">Loading...</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="turn_off_to_stop_receiving_alerts_and_updates">Turn off to stop receiving alerts and updates.</string>
+    <string name="darkMode_toggle_string">Turn off to switch to light mode for brighter UI.</string>
+    <string name="summery">Summery</string>
+    <string name="name">Name</string>
+</resources>
